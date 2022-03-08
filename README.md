@@ -1,2 +1,2 @@
-# To_Do_List
-A to do list made in JS where you can add tasks that need to be done
+# Chrome_extension
+A chrome extension in which people can save tabs/links and other data that might be important
