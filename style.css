@@ -20,22 +20,3 @@ button {
     border: 1px solid #5f9341;
     font-weight: bold;
 }
-
-#delete-btn {
-    background: white;
-    color: #5f9341;
-}
-
-ul {
-    margin-top: 30px;
-    list-style-type: none;
-    padding-left: 0;
-}
-
-li {
-    margin-top: 5px;
-}
-
-li a {
-    color: #5f9341;
-}
